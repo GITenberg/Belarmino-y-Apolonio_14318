@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5470
     wikipedia: http://en.wikipedia.org/wiki/Ram%C3%B3n_P%C3%A9rez_de_Ayala
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14318#Belarmino-y-Apolonio
 gutenberg_issued: '2004-12-10'
 gutenberg_type: Text
 identifiers:
