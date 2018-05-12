@@ -1,0 +1,33 @@
+_repo: Belarmino-y-Apolonio_14318
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pérez de Ayala, Ramón
+    aliases:
+    - Ayala, Ramón Pérez de
+    - De Ayala, Ramón Pérez
+    - Perez de Ayala, Ramon
+    - Cuevas, Plotino
+    birthdate: 1880
+    deathdate: 1962
+    gutenberg_agent_id: '5470'
+    url: http://www.gutenberg.org/2009/agents/5470
+    wikipedia: http://en.wikipedia.org/wiki/Ram%C3%B3n_P%C3%A9rez_de_Ayala
+description: ''
+gutenberg_issued: '2004-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14318'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Shoemakers -- Fiction'
+- !lcsh 'Spain -- Fiction'
+title: Belarmino y Apolonio
+url: http://www.gutenberg.org/ebooks/14318
